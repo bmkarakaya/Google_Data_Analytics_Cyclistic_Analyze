@@ -3,6 +3,7 @@ This is the capstone analysis project of the [Google Data Analytics course](http
 
 I have uploaded a more comprehensive version of the project in PDF format. Please download and read it, especially to gain a deeper understanding of the Process and Analyze, Share phases. I opted not to extend the README section to cover every detail extensively.
 
+[Tableau](https://public.tableau.com/views/Google_data_analytics_bicycle_app/Usersstartendlocationsdensitymap?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Introduction
 In this case study, I will be responding to the company in the assessment phase with various methods to address the three questions they have asked me. Other than the scenario and information about the company, we have six important subheadings: Ask, Prepare, Process, Analyze, Share, and finally, the subheading where I find a solution, Act.
