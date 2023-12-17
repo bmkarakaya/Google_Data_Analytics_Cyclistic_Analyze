@@ -1,9 +1,10 @@
-# Google_Data_Analytics_Cyclistic_Analyze
+# Google Data Analytics Cyclistic Analyze
 This is the capstone analysis project of the [Google Data Analytics course](https://www.coursera.org/learn/google-data-analytics-capstone).
 
 I have uploaded a more comprehensive version of the project in [PDF format](https://github.com/bmkarakaya/Google_Data_Analytics_Cyclistic_Analyze/blob/main/Cyclistic.pdf). Please download and read it, especially to gain a deeper understanding of the Process and Analyze, Share phases. I opted not to extend the README section to cover every detail extensively.
 
 All visualizations: [Tableau](https://public.tableau.com/views/Google_data_analytics_bicycle_app/Usersstartendlocationsdensitymap?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 All the processes related to the data: [Python](https://github.com/bmkarakaya/Google_Data_Analytics_Cyclistic_Analyze/blob/main/Cyclistic%20-%20Process%2C%20Analyze.ipynb)
 
 ## Introduction
